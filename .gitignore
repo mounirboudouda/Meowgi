@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Meowgi.com/config/applicationhost.config
+/.vs/Meowgi.com/FileContentIndex
+/.vs/Meowgi.com/v17
+/.vs/slnx.sqlite
+/.vs
