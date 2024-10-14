@@ -1,0 +1,2 @@
+# Meowgi
+Meowgi Coin
